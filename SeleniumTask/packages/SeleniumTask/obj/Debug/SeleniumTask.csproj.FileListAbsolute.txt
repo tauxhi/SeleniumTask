@@ -1,0 +1,13 @@
+C:\Users\tauseef.abbas\Desktop\Selenium\SeleniumTask\SeleniumTask\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\tauseef.abbas\Desktop\Selenium\SeleniumTask\SeleniumTask\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\tauseef.abbas\Desktop\Selenium\SeleniumTask\SeleniumTask\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\tauseef.abbas\Desktop\Selenium\SeleniumTask\SeleniumTask\bin\Debug\SeleniumTask.exe.config
+C:\Users\tauseef.abbas\Desktop\Selenium\SeleniumTask\SeleniumTask\bin\Debug\SeleniumTask.exe
+C:\Users\tauseef.abbas\Desktop\Selenium\SeleniumTask\SeleniumTask\bin\Debug\SeleniumTask.pdb
+C:\Users\tauseef.abbas\Desktop\Selenium\SeleniumTask\SeleniumTask\bin\Debug\WebDriver.dll
+C:\Users\tauseef.abbas\Desktop\Selenium\SeleniumTask\SeleniumTask\bin\Debug\WebDriver.Support.dll
+C:\Users\tauseef.abbas\Desktop\Selenium\SeleniumTask\SeleniumTask\obj\Debug\SeleniumTask.csproj.CoreCompileInputs.cache
+C:\Users\tauseef.abbas\Desktop\Selenium\SeleniumTask\SeleniumTask\obj\Debug\SeleniumTask.csproj.CopyComplete
+C:\Users\tauseef.abbas\Desktop\Selenium\SeleniumTask\SeleniumTask\obj\Debug\SeleniumTask.exe
+C:\Users\tauseef.abbas\Desktop\Selenium\SeleniumTask\SeleniumTask\obj\Debug\SeleniumTask.pdb
+C:\Users\tauseef.abbas\Desktop\Selenium\SeleniumTask\SeleniumTask\obj\Debug\SeleniumTask.csproj.AssemblyReference.cache
